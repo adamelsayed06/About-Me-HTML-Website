@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plans</title>
+</head>
+
+<body>
+    <h1> About Me</h1>
+    <p> I'm Adam Elsayed, and I have been studying Computer Science for the last year. I am proficient in Python, and am currently working on my skill  s in </p>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Java</li>
+        <li>C#</li>
+        
+    </ul>
+    <p>I am currently attending Brooklyn Technical High School, and I am taking several AP Classes to help me pursue this career choice.</p>
+    <img src="../images/JS.png">
+</body>
+
+</html>
