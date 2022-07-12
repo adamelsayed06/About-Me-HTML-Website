@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial scale=1.0">
+    <title>Plan</title>
+</head>
+<body>
+    <h1> Adam Elsayed </h1>
+    
+    <h2><a href="https://github.com/adamelsayed06" >GitHub!</a></h2>
+
+    <h2><a href="about.html">About Me </a></h2>
+
+    <img src="images/JS.png" alt="JavaScript Logo">
+    <p> Order of learning <strong> programming </strong> <em> Summer 2022-Summer 2024 </em> </p>
+    <ol>
+        <li>  Finish FrontEnd Simplified and the Odin Project (HTML, CSS, JS) (Summer 2022) </li>
+        <li>  Learn Java from AP CS-A, as well as C# in my own project (Fall-Spring '22-'23)</li>
+        <li>  Study Object-Oriented Programming (Summer '23)</li>
+        <li>  Variety of Short Courses on different aspects of CS, as well as study more complex math (AP Stats and AP Calculus BC) (Fall '23-Spring '24)
+        </li>
+        <li>  Study Discrete Math and Interview (Summer '24) </li>
+        <li>  internships </li>
+
+    </ol>
+    <!-- I do programming sometimes lol-->
+</body>
+</html>
